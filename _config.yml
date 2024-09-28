@@ -4,4 +4,4 @@ title: Chara Zerva
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-architect # add this line to the plugins list if you already have one
+- jekyll-remote-theme
